@@ -200,7 +200,7 @@ GROUP BY Country;
 
 ## 👨‍💻 Author
 
-**Tejas Bomble**  
+**Guttikonda Harshitha Devi**  
 Aspiring Data Engineer  
 
 ---
